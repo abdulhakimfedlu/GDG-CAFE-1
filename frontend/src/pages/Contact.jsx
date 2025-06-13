@@ -1,6 +1,7 @@
 // ContactUs.jsx
 import React from 'react';
 
+
 const ContactUs = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-green-50 to-orange-50">
