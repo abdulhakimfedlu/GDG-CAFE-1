@@ -11,6 +11,7 @@ import Navbar from './components/Navbar'
 const App = () => {
   return (
     <div>
+      
       <Navbar />
       <Routes>
         <Route path="/" element={<Menu />} />
