@@ -7,6 +7,7 @@ import CtaButtons from '../components/CtaButtons';
 import PreviewCards from '../components/PreviewCards';
 import Footer from '../components/Footer'; // Importing the new Footer component
 
+
 const JuicePlusHomepage = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
