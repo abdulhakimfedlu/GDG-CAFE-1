@@ -3,6 +3,7 @@ import { Menu, Users, ChevronLeft, ChevronRight } from 'lucide-react';
 import MenuPage from '../pages/Menu';
 import EmployeePage from '../pages/Employee';
 
+
 const Sidebar = ({ activeItem = 'menu', onItemSelect = () => {} }) => {
   const [isCollapsed, setIsCollapsed] = useState(false);
   const [isMobileOpen, setIsMobileOpen] = useState(false);
