@@ -3,7 +3,6 @@ import { Trash2, Edit, Plus, Save, X, AlertTriangle } from 'lucide-react';
 import axios from 'axios';
 import { toast } from 'react-toastify';
 
-
 // API base URL (adjust if needed)
 const API_BASE = '/api';
 
