@@ -3,7 +3,6 @@ import { Mail, Phone, User, Building, Calendar, DollarSign, Star, Search, Filter
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-
 const EmployeeListPage = () => {
   const [employees, setEmployees] = useState([]);
   const [loading, setLoading] = useState(true);
