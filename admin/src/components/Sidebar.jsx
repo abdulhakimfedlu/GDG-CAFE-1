@@ -2,7 +2,6 @@
 
 
 
-
 import React, { useState } from 'react';
 import { Menu, Users, ChevronLeft, ChevronRight } from 'lucide-react';
 import MenuPage from '../pages/Menu';
