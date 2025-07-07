@@ -9,7 +9,6 @@ const API_BASE = '/api';
 // Real API service using axios
 
 
-
 const api = {
   // Category CRUD
   getCategories: async () => {
