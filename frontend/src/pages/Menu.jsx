@@ -5,7 +5,6 @@ import MenuItem from '../components/MenuItem';
 import Footer from '../components/Footer';
 
 
-
 const MenuPage = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [categories, setCategories] = useState([]);
