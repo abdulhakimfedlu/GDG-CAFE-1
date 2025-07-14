@@ -4,7 +4,6 @@ import { motion } from 'framer-motion';
 
 
 
-
 const FeatureCard = ({ icon: Icon, title, children }) => (
   <motion.div
     className="flex flex-col items-center text-center p-6 bg-gradient-to-br from-green-50 to-green-100 rounded-3xl shadow-lg"
