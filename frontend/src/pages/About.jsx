@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Leaf, Droplet, RefreshCw, Smile, Heart, Star } from 'lucide-react';
 import { motion } from 'framer-motion';
